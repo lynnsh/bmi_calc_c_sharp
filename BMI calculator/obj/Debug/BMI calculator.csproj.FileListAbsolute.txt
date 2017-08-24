@@ -1,0 +1,18 @@
+H:\c#\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe.config
+H:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csprojResolveAssemblyReference.cache
+H:\c#\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+H:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csproj.GenerateResource.Cache
+H:\c#\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe
+H:\c#\BMI calculator\BMI calculator\bin\Debug\BMI calculator.pdb
+H:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.exe
+H:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.pdb
+C:\c#\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe.config
+C:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.exe
+C:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.pdb
+C:\c#\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe
+C:\c#\BMI calculator\BMI calculator\bin\Debug\BMI calculator.pdb
+C:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csprojResolveAssemblyReference.cache
+C:\c#\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+C:\c#\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csproj.GenerateResource.Cache
+C:\c#\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.BMICalculator.resources
+H:\c#\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.BMICalculator.resources
